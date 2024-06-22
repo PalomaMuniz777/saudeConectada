@@ -113,17 +113,17 @@ Este manual detalhado irá guiá-lo pelas funcionalidades do aplicativo, ajudand
 
 **1. Introdução**
 "Saúde Conectada" é um aplicativo inovador que utiliza tecnologia de ponta para transformar a experiência do paciente em clínicas e hospitais. Com recursos como check-in biométrico, triagem inteligente, comunicação automatizada em emergências e agendamento personalizado, o aplicativo visa otimizar o fluxo de pacientes, reduzir filas, melhorar a comunicação e garantir um atendimento mais rápido e seguro.
-**2. Download e Cadastro**
 
+**2. Download e Cadastro**
 Baixe o Aplicativo: Acesse a loja de aplicativos do seu dispositivo (Google Play ou App Store) e procure por "Saúde Conectada". Baixe e instale o aplicativo.
 Crie sua Conta: Abra o aplicativo e siga as instruções para criar uma conta. Você precisará fornecer algumas informações pessoais, como nome completo, data de nascimento, e-mail e telefone. Defina uma senha segura para acessar sua conta.
-**3. Check-in Biométrico**
 
+**3. Check-in Biométrico**
 Acesso Rápido: Abra o aplicativo e toque no botão "Check-in". Posicione seu rosto dentro do círculo da câmera para iniciar o reconhecimento facial.
 Autenticação Segura: O aplicativo utiliza tecnologia de reconhecimento facial para confirmar sua identidade. Se o reconhecimento for bem-sucedido, você será direcionado para a próxima tela.
 Facilidade e Eficiência: O check-in biométrico elimina a necessidade de preencher formulários, agilizando o processo e reduzindo filas.
-**4. Triagem Inteligente**
 
+**4. Triagem Inteligente**
 Classificação de Risco: Após o check-in, responda às perguntas da triagem com atenção e sinceridade. O aplicativo utiliza algoritmos de IA para analisar seus sintomas e classificar a gravidade da sua situação.
 Direcionamento Adequado: Você receberá uma classificação de risco (leve, moderado, grave) e orientações sobre o próximo passo. Se necessário, o aplicativo poderá direcioná-lo para o atendimento de emergência.
 Atendimento Personalizado: A triagem inteligente permite que você receba o atendimento médico mais adequado às suas necessidades.
@@ -151,19 +151,16 @@ Preferências de Notificação: Configure as preferências de notificação para
 Contatos de Emergência: Adicione contatos de emergência, como familiares ou amigos, para que eles sejam notificados em situações de urgência.
 
 **10. Dicas para Usar o Aplicativo**
-
 Mantenha seu dispositivo carregado e com acesso à internet para utilizar o aplicativo com eficiência.
 Leia atentamente as instruções e mensagens do aplicativo.
 Se você tiver alguma dúvida, acesse a seção de ajuda do aplicativo ou entre em contato com o suporte técnico.
 O aplicativo "Saúde Conectada" é uma ferramenta para auxiliar no atendimento médico. Em caso de dúvidas, procure atendimento médico profissional.
 
 **11. Considerações Importantes**
-
 O aplicativo "Saúde Conectada" foi desenvolvido para oferecer segurança e privacidade aos seus dados. Todas as informações pessoais são armazenadas de forma segura e criptografada.
 A equipe de desenvolvimento do aplicativo está comprometida com a melhoria contínua da plataforma. Novas funcionalidades e atualizações serão adicionadas ao longo do tempo.
 
 **12. Contato**
-
 Para sugestões, dúvidas ou informações adicionais, entre em contato com a equipe de suporte através do email [endereço de email do suporte].
 Aproveite ao máximo as vantagens do aplicativo "Saúde Conectada" e tenha uma experiência de saúde mais prática, segura e eficiente!
 Aproveite ao máximo as vantagens do aplicativo "Saúde Conectada" e tenha uma experiência de saúde mais prática, segura e eficiente!
