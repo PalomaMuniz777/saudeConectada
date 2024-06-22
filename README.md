@@ -11,7 +11,7 @@
 UX/UI Designer
 mariabeatrizmota@gmail.com
 
-- **Nome completo: Paloma Muniz Mendes**
+- **Paloma Muniz Mendes**
 Dev - IA Engenharia de Prompt
 palomamendespp@gmail.com
 
